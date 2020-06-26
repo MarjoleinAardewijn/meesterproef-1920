@@ -748,4 +748,10 @@ server.js
 
 En heb ik Coen nog geholpen met data in de DB te zetten en er weer uit te halen. Hij liep hier namelijk een beetje vast en had ff een frisse blik erbij nodig.
 
-Als laatste heb ik de [README](https://github.com/GloryDaysApp/glorydays#readme) geschreven. Hierbij heb ik nog heel leuk een plugin gebruikt genaamd [all-contributors](https://github.com/all-contributors/all-contributors) waarmee je heel makkelijk kan aangeven wie er allemaal meegewerkt hebben aan het project en wat zij hebben gedaan.
+Als laatste heb ik de [README](https://github.com/GloryDaysApp/glorydays#readme) geschreven. Hierbij heb ik nog heel leuk een plugin gebruikt genaamd [all-contributors](https://github.com/all-contributors/all-contributors) waarmee je heel makkelijk kan aangeven wie er allemaal meegewerkt hebben aan het project en wat zij hebben gedaan. En een splashscreen gemaakt voor de app.
+
+<details>
+    <summary>Splashscreen</summary>
+
+<img width="375" alt="Screenshot 2020-06-26 at 16 15 58" src="https://user-images.githubusercontent.com/23479038/85866872-5d9af500-b7c8-11ea-99bc-db16b1579058.png">
+</details>
