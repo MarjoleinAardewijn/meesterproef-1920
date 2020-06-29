@@ -23,3 +23,9 @@ Bekijk [hier](https://github.com/MarjoleinAardewijn/meesterproef-1920/blob/maste
 
 ## Reflectie op eigen niveau
 
+Nu we aan het einde zijn gekomen van het project Glory Days van de Meesterproef zal ik systematisch op mijn werk en 
+proces reflecteren. Aan de hand van de vak-rebrics zal ik schrijven welke vakken wel of niet aan bod zijn gekomen en waarom.
+Op deze manier krijg ik een goed beeld van mijn eigen niveau, mogelijke aandachtspunten in techniek, interactie en/of 
+aspecten van hetdesign-proces waar ik me nog in zou kunnen verbeteren.
+
+Bekijk [hier](https://github.com/MarjoleinAardewijn/meesterproef-1920/blob/master/reflectie.md) mijn reflectie op eigen niveau.
