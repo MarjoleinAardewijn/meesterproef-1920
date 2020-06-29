@@ -12,9 +12,9 @@ Tijdens dit project heb ik samen gewerkt met Simone van Zeijl, Marissa Verdonck,
 
 ## Week 1
 
-In de eerste week hebben we gezamelijk de [debriefing geschreven](https://github.com/GloryDaysApp/glorydays/wiki/Debriefing), [schetsen gemaakt](https://github.com/GloryDaysApp/glorydays/wiki/Schetsen) en een [MoSCoW diagram opgezet](https://github.com/GloryDaysApp/glorydays/wiki/MoSCoW).
+In de eerste week hebben we gezamenlijk de [debriefing geschreven](https://github.com/GloryDaysApp/glorydays/wiki/Debriefing), [schetsen gemaakt](https://github.com/GloryDaysApp/glorydays/wiki/Schetsen) en een [MoSCoW diagram opgezet](https://github.com/GloryDaysApp/glorydays/wiki/MoSCoW).
 
-Om goed samen te kunnen werken maakte wij gebruik van Github. Aangezien ik de enigste persoon was in mijn team die ervaring had met in teamverband met Git werken heb ik tutorial aan mijn teamgenoten gegeven over hoe je kan werken met Git in teamverband. Hierbij heb ik de uitgelegd hoe je met branches moet werken, aangezien velen hier nog nooit mee gewerkt hadden, en hoe je git kan gebruiken via de terminal. Om mijn teamgenoten hierbij verder te helpen heb ik ook een [cheatsheet](https://github.com/GloryDaysApp/glorydays/wiki/GIT) gemaakt met allemaal git commando's voor de terminal.
+Om goed samen te kunnen werken maakte wij gebruik van GitHub. Aangezien ik de enigste persoon was in mijn team die ervaring had met in teamverband met Git werken heb ik tutorial aan mijn teamgenoten gegeven over hoe je kan werken met Git in teamverband. Hierbij heb ik de uitgelegd hoe je met branches moet werken, aangezien velen hier nog nooit mee gewerkt hadden, en hoe je git kan gebruiken via de terminal. Om mijn teamgenoten hierbij verder te helpen heb ik ook een [cheatsheet](https://github.com/GloryDaysApp/glorydays/wiki/GIT) gemaakt met allemaal git commando's voor de terminal.
 
 En als laatste heb ik ook nog een artikel gelezen over of je kan meten hoeveel muziek je opwindt en hier een [samenvatting](https://github.com/GloryDaysApp/glorydays/wiki/Onderzoek#4-can-you-measure-how-much-music-excites-you-i-tried-heres-the-data) over geschreven.
 
@@ -204,7 +204,7 @@ Naast de code schrijven voor het uploaden van afbeeldingen heb ik ook nog bij Si
 
 Ook heb ik deze week veel geholpen bij de eerste keren committen van mijn teamgenoten via git in de terminal. Hier ging vaak ook nog best veel tijd inzitten, aangezien sommige dingen toch nog iets beter uitgelegt moesten worden.
 
-Tijdens het coachinggesprek met Joost gaf hij ons ook nog de tip om een aparte repo aan te maken voor Glory Days, zodat de overdracht later veel makkelijk zou gaan. Om deze reden heb ik toen een email account aangemaakt voor Glory Days om vervolgens een Github account en een nieuwe repo aan te kunnen maken. Alle wachtwoorden heb ik netjes gedocumenteerd, zodat dit allemaal aan het einde van het project makkelijk overgedragen kan worden aan Marnix en Martijn. Daarna heb ik nog een nieuw projectboard aangemaakt en alle issues overgezet en meteen mooi van labels verzien zodat ook dit allemaal wat overzichtelijker voor ons word.
+Tijdens het coachinggesprek met Joost gaf hij ons ook nog de tip om een aparte repo aan te maken voor Glory Days, zodat de overdracht later veel makkelijk zou gaan. Om deze reden heb ik toen een email account aangemaakt voor Glory Days om vervolgens een Github account en een nieuwe repo aan te kunnen maken. Alle wachtwoorden heb ik netjes gedocumenteerd, zodat dit allemaal aan het einde van het project makkelijk overgedragen kan worden aan Marnix en Martijn. Daarna heb ik nog een nieuw projectboard aangemaakt en alle issues overgezet en meteen mooi van labels verzien zodat ook dit allemaal wat overzichtelijker voor ons wordt.
 
 Verder heb ik deze week ook nog linters voor SCSS en JS ingesteld op het project zodat al onze code zo veel mogelijk consistent blijft. Hiervoor heb ik eerst uitgezocht welke linters het fijnst zouden zijn om mee te werken. Uit dit kleine onderzoek en de test die ik daarna heb gedaan om te kijken of de gekozen linter ook lekker werkt, kwam ESLint voor JS en StyleLint voor SCSS.
 
@@ -272,7 +272,7 @@ StyleLint:
 
 Deze week ben ik begonnen met het mergen van mijn bench met die van Marissa. Dit ging zonder grote problemen, er waren wat merge conflicts maar die waren makkelijk op te lossen. Marissa heeft hierbij meegekeken, aangezien zij dit nog nooit gedaan had. Om deze reden heb ik het haar ondertussen ook een beetje uitgelegd en vragen van haar beantwoord.
 
-Tijdens alle merges die deze week gedaan werden kwam het probleem naar voren dat er steeds conflicten waren in `package-lock.json`. Aangezien dit een bestand is dat bij iedereen weer anders is, omdat het automatisch gegenereerd word, heb ik deze in `.gitignore` gezet om conflicten in de toekomst te voorkomen. Daarnaast heb ik ook meteen alle naamgevingen in het project van bestanden consistent gemaakt, aangezien dit ondertussen een beetje een rommeltje werd. Hiervoor heb ik met mijn team overlegd hoe we de naamgevingen willen doen en aan de hand daarvan het aangepast. Ook heb ik dit meteen gedocumenteerd en daarbij ook meteen alle andere [code regels](https://github.com/GloryDaysApp/glorydays/wiki/Code-Regels) opgeschreven zodat dit soort dingen in de toekomst ook voorkomen kunnen worden.
+Tijdens alle merges die deze week gedaan werden kwam het probleem naar voren dat er steeds conflicten waren in `package-lock.json`. Aangezien dit een bestand is dat bij iedereen weer anders is, omdat het automatisch gegenereerd wordt, heb ik deze in `.gitignore` gezet om conflicten in de toekomst te voorkomen. Daarnaast heb ik ook meteen alle naamgevingen in het project van bestanden consistent gemaakt, aangezien dit ondertussen een beetje een rommeltje werd. Hiervoor heb ik met mijn team overlegd hoe we de naamgevingen willen doen en aan de hand daarvan het aangepast. Ook heb ik dit meteen gedocumenteerd en daarbij ook meteen alle andere [code regels](https://github.com/GloryDaysApp/glorydays/wiki/Code-Regels) opgeschreven zodat dit soort dingen in de toekomst ook voorkomen kunnen worden.
 
 Verder kwamen er nog een aantal errors zijn voren bij ESLint die voor ons eigenlijk niet zo belangrijk waren, dus heb ik deze regels in overleg met het team uitgezet. Dit om onnodige errors te voorkomen. Ditzelfde probleem ondervonden we ook met Stylelint, dus ook hier heb ik een aantal regels uitgezet.
 
@@ -344,15 +344,15 @@ StyleLint:
 ```
 </details>
 
-Ook heb ik nog met teamgenoten mee gekeken met de eerste keer committen. En aangezien dit mij steeds veel tijd kost heb ik daar meteen een mooie [guide](https://github.com/GloryDaysApp/glorydays/wiki/Git-Guide-voor-Terminal) voor gemaakt, zodat ze deze bij toekomstige commits kunnen raadplegen en alleen mij om hulp hoeven te vragen wanneer ze er echt niet uit komen.
-
+Ook heb ik nog met teamgenoten mee gekeken met de eerste keer committen. En aangezien dit mij steeds veel tijd kost heb ik daar meteen een mooie [guide](https://github.com/GloryDaysApp/glorydays/wiki/Git-Guide-voor-Terminal) voor gemaakt, zodat ze deze bij toekomstige commits kunnen raadplegen en alleen mij om hulp hoeven te vragen wanneer ze er echt niet uit komen. 
+ 
 ## Week 4
 
 Week 4 zijn we begonnen met het maken van een goed design, zodat we dit bij het schrijven van SCSS goed konden aanhouden en ook consistent daarin konden zijn. Hiervoor hebben we eerst weer een aantal schetsen gemaakt (Zie: [Product Biografie Glory Days > pagina 52 'Visueel ontwerp schetsen'](https://docs.google.com/document/d/1WLTZvnaozR54mjuEAJiTyEz7x85r8EW1nZUzlMftpLw/edit)) en hieruit weer een aantal keuzes gemaakt. Daarna ben ik begonnen met het maken van het definitieve prototype. Dit heb ik in eerste instantie gedaan met Adobe XD, maar al snel bleek dat dit niet al te handig was aangezien ik een nieuwere versie van XD had dan mijn teamgenoten. Dit ben ik verder gegaan in [Figma](https://www.figma.com/file/gROxPQAopa290sGWgStval/Glory-Days-V3). Doordat ik het ook in XD had gemaakt, kon ik wel meteen mooi de style guides genereren zodat dit voor iedereen duidelijk was. Later zijn ook de anderen uit het team komen helpen, aangzien het erg veel tijd koste om het allemaal in mijn eentje te maken.
 
 Na het maken van het design heb zag ik dat op de `master` bench nog veel Stylelint errors zaten, dus heb ik deze allemaal weggewerkt. En heb ik in overleg met mijn teamgenoten variabelen aangemaakt voor alle afstanden voor `paddings` en `margins` die wij gebruiken. Dit ook om ervoor te zorgen dat alles zo consistent mogelijk bleef en dat als er ooit iets aan moet veranderen, we dat mooi op 1 plek kunnen doen in plaats van op 100 plekken.
 
-Ook heb ik deze week het media scherm van de conversational UI gemaakt. Dit is te zien in de bench: [dev_62_memory_images_voice_and_text](https://github.com/GloryDaysApp/glorydays/tree/dev_62_memory_images_voice_and_text). Hier ben ik nog best wel een tijdje mee bezig geweest, aangezien veel SCSS code door elkaar stond en dit de styling van de buttons met icons erin erg lastig maakte. Daarom heb ik eerst uitgezocht hoe het allemaal in elkaar zat, aangezien Marissa die code grotendeels had geschreven en het vrij complex in elkaar zat door alle animaties die erin zaten. Toen ik een idee had van hoe het in elkaar zat heb ik de code die ik eruit kon halen wat betreft de buttons eruit gehaald en in een eigen bestand gezet. Daarnaast heb ik ook nog een aantal mixins gemaakt, aangezien veel code steeds terug kwam en je dit eigenlijk liever niet wilt in verband met onderhoudbaarheid in de toekomst en dus in zo'n geval een mixin wilt gebruiken. Nadat ik dat allemaal had gedaan kon ik eindelijk beginnen met het stylen van de het scherm en de buttons. In eerste instantie heb ik toen aparte pagina's gemaakt voor afbeeldingen, voice of tekst toevoegen. Maar na kort overleg met mijn team, hebben we besloten dit op dezelfde pagina te doen. Dus moest ik mijn code nog iets aanpassen en nog wat JavaScript schrijven om ervoor te zorgen dat de elementen alleen maar zichtbaar waren wanneer er op een button geklikt is.
+Ook heb ik deze week het mediascherm van de conversational UI gemaakt. Dit is te zien in de bench: [dev_62_memory_images_voice_and_text](https://github.com/GloryDaysApp/glorydays/tree/dev_62_memory_images_voice_and_text). Hier ben ik nog best wel een tijdje mee bezig geweest, aangezien veel SCSS-code door elkaar stond en dit de styling van de buttons met icons erin erg lastig maakte. Daarom heb ik eerst uitgezocht hoe het allemaal in elkaar zat, aangezien Marissa die code grotendeels had geschreven en het vrij complex in elkaar zat door alle animaties die erin zaten. Toen ik een idee had van hoe het in elkaar zat heb ik de code die ik eruit kon halen wat betreft de buttons eruit gehaald en in een eigen bestand gezet. Daarnaast heb ik ook nog een aantal mixins gemaakt, aangezien veel code steeds terugkwam en je dit eigenlijk liever niet wilt in verband met onderhoudbaarheid in de toekomst en dus in zo'n geval een mixin wilt gebruiken. Nadat ik dat allemaal had gedaan kon ik eindelijk beginnen met het stylen van de het scherm en de buttons. In eerste instantie heb ik toen aparte pagina's gemaakt voor afbeeldingen, voice of tekst toevoegen. Maar na kort overleg met mijn team, hebben we besloten dit op dezelfde pagina te doen. Dus moest ik mijn code nog iets aanpassen en nog wat JavaScript schrijven om ervoor te zorgen dat de elementen alleen maar zichtbaar waren wanneer er op een button geklikt is.
 
 Nadat ik met het media scherm klaar was heb ik Jennifer even geholpen met het de sliders. Ik had bij [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range) gelezen dat je ook een `datalist` element kan gebruiken in conbinatie met een input field type `rage` om tickmarkt toe te voegen (dit wilde we hebben om gebruikers een beter indicatie te geven van wat ze hebben ingevult op de slider). Dus hebben we uitgeprobeerd of dit werkt. Helaas kwamen wij tot de conclusie dat dit niet mogelijk is wanneer je de slider een custom styling hebt gegeven. Dit kwam door dat je daarvoor de CSS propertie `appearance: none` moest gebruiken en dit er ook voor zorgt dat de tickmarks verdwijnen. Jennifer is daarna zelf weer opzoek gegaan naar een andere mogelijke oplossing, dit omdat ik toen zelf weer verder moest met mijn eigen taken.
 
@@ -482,7 +482,7 @@ function changeActiveState() {
 
 Verder heb ik deze week ook nog met Coen samen if statements om EventsListeners en variabelen gezet om onnodige errors op pagina's waar deze elementen niet voorkomen te voorkomen en hebben we als team alle brenches samengevoegd en allemaal individueel de app getest. Wanneer er nog errors of bugs gevonden werden, werden deze meteen genoteerd en nadat we het met zijn alle hadden besproken hebben we hoervan nieuwe issues aangemaakt in het project board zodat we wisten wat er allemaal nog gedaan moest worden.
 
-En als laatste heb ik nog een color scheme voor de overlays bedacht. Dit was moeilijker dat je zou denken, eengezien het duidelijke kleuren moesten zijn die goed de emoties en energie levels weer konden geven. Na een aantal scheme's te hebben geprobeerd, opgezocht te hebben welke kleuren wat betekenen in de psychologie en feedback aan mijn team te hebben gevraagd en zij ook meegedacht hadden, hadden we uiteindelijk 3 verschillende scheme's die we aan Marnix en Martijn konden voorleggen. Zij hebben toen uiteindelijk voor de volgende color scheme gekozen voor de overlays:
+En als laatste heb ik nog een color scheme voor de overlays bedacht. Dit was moeilijker dat je zou denken, eengezien het duidelijke kleuren moesten zijn die goed de emoties en energielevels weer konden geven. Na een aantal scheme's te hebben geprobeerd, opgezocht te hebben welke kleuren wat betekenen in de psychologie en feedback aan mijn team te hebben gevraagd en zij ook meegedacht hadden, hadden we uiteindelijk 3 verschillende scheme's die we aan Marnix en Martijn konden voorleggen. Zij hebben toen uiteindelijk voor de volgende color scheme gekozen voor de overlays:
 
 <img width="826" alt="Definitief color scheme" src="https://user-images.githubusercontent.com/23479038/85858255-9e404180-b7bb-11ea-9bba-4aa6d00499d2.png">
 
@@ -505,7 +505,7 @@ Uiteindelije top 3 \
 ## week 5
 
 De laatste week ben ik begonnen met de color scheme die uitgekozen was voor de overlays toe te voegen aan het project. In het project had Jennifer al eerder overlays toegevoegd, dus aan mij was nu de taak om dit aan te passen.
-Om dit te doen heb ik eerst een mixin gemaakt van de gradient, aangezien deze op veel plekken terug kwam met alleen maar een andere kleur erin. Aangezien je aan mixins ook variabelen mee kan geven heb ik daar dus meteen gebruik van gemaakt.
+Om dit te doen heb ik eerst een mixin gemaakt van de gradient, aangezien deze op veel plekken terugkwam met alleen maar een andere kleur erin. Aangezien je aan mixins ook variabelen mee kan geven heb ik daar dus meteen gebruik van gemaakt.
 
 <details>
     <summary>Mixin</summary>
@@ -535,7 +535,7 @@ $glory-red: #c91f08;
 
 Verder heb ik deze week de app gedeployed naar Heroku zodat het ook [live](https://glory-days.herokuapp.com/) te testen is. En heb ik nog een PWA ervan gemaakt door een manifest en een service worker eraan toe te voegen.
 Dit zodat het de look en feel krijgt van een app en het in de toekomst ook als app te testen is met de doelgroep zonder dat we er een Android of iOS app van hoefden te maken. In de service worker heb ik ervoor gekozen om voor nu 
-alleen de CSS en JS te cachen, aangezien er niet genoeg tijd was om andere pagina's ook te laten cachen. Ik heb nog geprobeerd om een offline state erin te maken, maar door de tijdsdruk en error's heb ik voor nu besloten dat niet te doen en dus de `cache only strategy` toe te passen.
+alleen de CSS en JS te cachen, aangezien er niet genoeg tijd was om andere pagina's ook te laten cachen. Ik heb nog geprobeerd om een offlinestate erin te maken, maar door de tijdsdruk en error's heb ik voor nu besloten dat niet te doen en dus de `cache only strategy` toe te passen.
 
 Ook heb ik nog geprobeerd om een revision manifest erin te maken zodat de gecachde CSS en JS niet meer gebruikt worden 
 wanneer er een nieuwe versie van bestaat op de server. En dus de laatste versie altijd mooi zichtbaar is. Alleen 
@@ -668,7 +668,7 @@ Ook was er nog een bug met de spacing doordat we op sommige plekken nog `em` geb
 Doordat we dus nog `em` gebruikte was de spacing op sommige plekken nog niet goed en moest dit dus veranderd worden naar `rem`. Ik ben de hele code doorgeggaan en heb overal `em` veranderd naar `rem`.
 
 Verder heb ik ook nog een bug met de voice recorder opgelost. Hier was namelijk het probleem dat en voor de timer `00` 
-werd gebruikt als begin waarde, maar aangezien dit geen `string` was gaf dit steeds de error dat er geen octal literals 
+werd gebruikt als beginwaarde, maar aangezien dit geen `string` was gaf dit steeds de error dat er geen octal literals 
 in strict mode gebruikt mochten worden. Dit heb ik eerst geprobeerd op te lossen door dit in de linter uit te zetten, 
 alleen kwam toen de error ook in de console erbij. Uiteindelijk heb ik dit opgelost door quotes eromheen te zetten, 
 zodat het een `string` was en geen `interger`. En dit werkte ook prima.
@@ -701,7 +701,7 @@ function showPlayerSmall(song) {
 Naast de bovenstaande dingen heb ik ook nog de slider toegevoegd aan de schermen voor het toevoegen van een herinnering, de link van de button 
 'open de muziekspeler' veranderd van `/` naar `/music-overview` en margins onderaan de pagina's toegevoegd zodat elementen beter zichtbaar waren op mobiele devices.
 
-Ook heb ik nog een redirect gemaakt naar de login pagina wanneer de gebruiker niet ingelogd is. Dit heb ik gedaan door op de begin pagina een check te doen of er een `REFRESH_TOKEN` aanwezig is. Wanneer dit niet het geval is wordt de gebruiker doorgestuurd naar de login pagina van Spotify.
+Ook heb ik nog een redirect gemaakt naar de login pagina wanneer de gebruiker niet ingelogd is. Dit heb ik gedaan door op de beginpagina een check te doen of er een `REFRESH_TOKEN` aanwezig is. Wanneer dit niet het geval is wordt de gebruiker doorgestuurd naar de login pagina van Spotify.
 
 <details>
     <summary>Code redirect naar login pagina</summary>

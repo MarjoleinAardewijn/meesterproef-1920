@@ -2,7 +2,7 @@
 
 In de Meesterproef heb ik toegepast wat ik in de Minor Web Development hebt geleerd.
 
-Ik heb gekozen voor het project Glory Days van het bedrijf GoodGoodNotBad in samenwerking met de Universietijd van Leiden. Dit project heb ik samen met Simone van Zeijl, Marissa Verdonck, Jennifer Slagt en Coen Mathijssen gemaakt.
+Ik heb gekozen voor het project Glory Days van het bedrijf GoodGoodNotBad in samenwerking met de Universiteit van Leiden. Dit project heb ik samen met Simone van Zeijl, Marissa Verdonck, Jennifer Slagt en Coen Mathijssen gemaakt.
 
 ## Inhoudsopgave
 
@@ -24,8 +24,8 @@ Bekijk [hier](https://github.com/MarjoleinAardewijn/meesterproef-1920/blob/maste
 ## Reflectie op eigen niveau
 
 Nu we aan het einde zijn gekomen van het project Glory Days van de Meesterproef zal ik systematisch op mijn werk en 
-proces reflecteren. Aan de hand van de vak-rebrics zal ik schrijven welke vakken wel of niet aan bod zijn gekomen en waarom.
+proces reflecteren. Aan de hand van de vak-rubrics zal ik schrijven welke vakken wel of niet aan bod zijn gekomen en waarom.
 Op deze manier krijg ik een goed beeld van mijn eigen niveau, mogelijke aandachtspunten in techniek, interactie en/of 
-aspecten van hetdesign-proces waar ik me nog in zou kunnen verbeteren.
+aspecten van het design-proces waar ik me nog in zou kunnen verbeteren.
 
 Bekijk [hier](https://github.com/MarjoleinAardewijn/meesterproef-1920/blob/master/reflectie.md) mijn reflectie op eigen niveau.

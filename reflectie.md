@@ -32,7 +32,7 @@ De samenwerking ging echt super tijdens dit project! Ik heb echt nog nooit in zo
 ik tijdens projecten nog wel problemen binnen het team met mensen die niets deden of dat we steeds heftige discussies 
 hadden waar veel tijd aan verloren ging, maar dat was allemaal niet het geval tijdens dit project. Iedereen hielp elkaar
 goed en luisterde ook goed naar wat anderen te zeggen hadden. En hierdoor werden beslissingen ook snel gemaakt. We zaten
-bijna altijd wel met zijn allen op één lijn, wat echt super fijn was!
+bijna altijd wel met zijn allen op één lijn, wat echt superfijn was!
 
 Ook leerden we veel van elkaar. Zo heb ik iedereen geleerd hoe je met Git kan werken via de terminal en met brenches en 
 hebben de anderen mij weer veel geleerd van hoe Spotify werkt en kleine dingetjes tussendoor waar ik nog niets van wist.
@@ -42,7 +42,7 @@ zijn om dingen aan te pakken. Daarnaast was het vaak dat dan de andere typete, w
 nadenken van hoe het geschreven moest worden. Vooral van dit laatste heb ik ontzettend veel geleerd.
 
 Ook heb ik geleerd dat je bij Git ook een project board kan maken waar je je issues in kan zetten. Wat echt een eye opener 
-voor mij was. Het was echt super fijn dat je hiervoor geen Trello of een ander soortgelijk programma hoeft te gebruiken 
+voor mij was. Het was echt superfijn dat je hiervoor geen Trello of een ander soortgelijk programma hoeft te gebruiken 
 en dat alles gewoon mooi op één plek staat.
 
 Ook heb ik doordat ik iedereen moest uitleggen hoe Git werkt, zelf ook weer nieuwe dingen bijgeleerd. Zo gebruikte ik eerst
@@ -221,7 +221,7 @@ Je begrijpt hoe een Service Worker werkt en kan deze in jouw applicatie op een n
 Je begrijpt hoe de critical render path werkt, en hoe je deze kan optimaliseren
 
 #### Reflectie
-Ik heb een manifest gemaakt en een service worker (SW) opgezet. In de SW cache ik de CSS en JS. Ook heb ik nog een revision 
+Ik heb een manifest gemaakt en een service worker (SW) opgezet. In de SW, cache ik de CSS en JS. Ook heb ik nog een revision 
 manifest gemaakt om wijzigingen in de CSS en JS bij te houden en door te laten komen in de browser, maar aangezien 
 sommige teamgenoten hierdoor wat problemen kregen met hun code hebben we ervoor gekozen om het voor nu weer even eruit 
 te halen. Dit ook omdat er niet voldoende tijd was om uit te zoeken wat er nou precies fout ging. Het gekke hier was 

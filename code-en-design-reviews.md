@@ -34,7 +34,7 @@ Vraag:
 Laurens heeft gekeken bij een aantal studenten uit onze klas en zag dat Lennart dit had gedaan.
 
 [Sockets module](https://github.com/lennartdeknikker/wiki-game/blob/828c6b3524a479c2d1bc98a0caf7d62620dc94d9/server/scripts/socket.js) \
-[importeerd module hier](https://github.com/lennartdeknikker/wiki-game/blob/5d7821d94ea210f6970651d4018498a0b59e5256/bin/www)
+[importeert module hier](https://github.com/lennartdeknikker/wiki-game/blob/5d7821d94ea210f6970651d4018498a0b59e5256/bin/www)
 
 ## Design Review #2 - Vasilis - 04-06-2020
 
@@ -45,7 +45,7 @@ Hier kon Vasilis geen antwoord op geven, maar misschien werkt dit wel als je geb
 
 Verder gaf Vasilis nog aan dat we gewoon moeten gaan testen met mensen om zeker te weten of het design goed is. En gaf hij aan dat we het account aanmaken en inloggen helemaal niet hoefden te doen, aangezien dit standaard is en iedereen dit wel weet.
 
-Ook gaf hij nog aan dat de scroll puntjes inprinciepe ook niet nodig zijn. En dan kan je gewoon aan het begin zeggen dat je 5 vragen hebt bijvoorbeeld.
+Ook gaf hij nog aan dat de scroll puntjes in principe ook niet nodig zijn. En dan kan je gewoon aan het begin zeggen dat je 5 vragen hebt bijvoorbeeld.
 
 ## Code Review #3 - Joost - 10-06-2020
 
@@ -56,7 +56,7 @@ JSON file > FS
 LocalStorage
 IndexDB
 
-IndexDB icm SW > https://developers.google.com/web/ilt/pwa/live-data-in-the-service-worker
+IndexDB i.c.m. SW > https://developers.google.com/web/ilt/pwa/live-data-in-the-service-worker
 
 
 SW Opzetten?
@@ -69,4 +69,3 @@ Vraag:
 Thomas: vinkje bij buttons als je iets toegevoegd hebt.
 Koop: Labels bij buttons, nog kort vertellen wat je kan doen, alle antwoorden blijven altijd zichtbaar, wanneer een stap afgerond wordt er aangegeven dan je ook nog wat anders kan toevoegen.
 Wouter / Thomas / Koop: niet duidelijk genoeg waar je nu bent. Koop > aangegeven als titel.
-

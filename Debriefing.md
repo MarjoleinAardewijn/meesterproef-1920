@@ -23,7 +23,7 @@ Ondanks dat een medicijn ver weg is, kunnen we het verloop van de ziekte aangena
 
 
 ## Doel
-Aan ons de opdracht om een applicatie te ontwikkelen waarbij we het leven van Alzheimer patiënten en de mensen eromheen verbeteren. Denk hierbij bijvoorbeeld aan verzorgers, familieleden of vrienden. Muziek, waar persoonlijke herinneringen aan zijn gekoppeld, wordt opgehaald om mooie momenten te creëren in het heden over het verleden. Zo gaan cognitieve functies minder snel achteruit en wordt de emotionele gemoedstoestand mogelijk verbeterd. Daarnaast kunnen we deze ervaring gebruiken om de relatie tussen patiënt en vriend/familie/verzorger te verbeteren.
+Aan ons de opdracht om een applicatie te ontwikkelen waarbij we het leven van Alzheimerpatiënten en de mensen eromheen verbeteren. Denk hierbij bijvoorbeeld aan verzorgers, familieleden of vrienden. Muziek, waar persoonlijke herinneringen aan zijn gekoppeld, wordt opgehaald om mooie momenten te creëren in het heden over het verleden. Zo gaan cognitieve functies minder snel achteruit en wordt de emotionele gemoedstoestand mogelijk verbeterd. Daarnaast kunnen we deze ervaring gebruiken om de relatie tussen patiënt en vriend/familie/verzorger te verbeteren.
 
 
 ## Hoofdvraag
@@ -110,4 +110,3 @@ Waarom wil de gebruiker het gebruiken?
 Hoe gaat de gebruiker het gebruiken?
 
 - De verzorger zal een nummer opzoeken via de telefoon voor de patiënt. De patiënt krijgt optioneel bijbehorende afbeeldingen/video/audio te zien/horen. Bij de juiste muziek kunnen gerelateerde herinneringen op worden gehaald en vast worden gelegd binnen de app. Herinneringen kunnen te allen tijde terug worden gekeken.
-
